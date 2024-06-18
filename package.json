@@ -1,0 +1,24 @@
+{
+  "name": "calculatorwithelectron",
+  "version": "1.0.0",
+  "description": "Electron ile Basit Hesap Makinesi Uygulaması",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eekilinc/calculatorwithelectron.git"
+  },
+  "keywords": [
+    "Hesap",
+    "makinesi",
+    "electron"
+  ],
+  "author": "Ekrem Eşref KILINÇ",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eekilinc/calculatorwithelectron/issues"
+  },
+  "homepage": "https://github.com/eekilinc/calculatorwithelectron#readme"
+}
