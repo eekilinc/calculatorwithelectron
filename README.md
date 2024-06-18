@@ -2,7 +2,7 @@ Electron ile basit bir hesap makinesi uygulaması.
 
 ---------------------------------------------------
 Bir dizinde klasör oluştur.
-Örnek D:/denemeler/test
+Örnek D:/denemeler/electron
 
 1- Bilgisayar da node.js kurulmalı
 
