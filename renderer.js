@@ -1,5 +1,5 @@
 
-// script.js
+// renderer.js
 let display = document.getElementById('display');
 let currentInput = '';
 let operator = null;
