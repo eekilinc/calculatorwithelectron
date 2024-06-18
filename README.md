@@ -5,7 +5,9 @@ Bir dizinde klasör oluştur.
 Örnek D:/denemeler/test
 
 1- Bilgisayar da node.js kurulmalı
+
 2- Sonra npm
+
 3- Şu komut ile package.json dosyasını ayarla. Burada genelde index.js yerine main.js tercih ediliyor electron yapısı gereği.
 Diğer ayarlar author, license, version, packagename v.b.
 ------------
