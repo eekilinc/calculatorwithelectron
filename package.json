@@ -1,0 +1,16 @@
+{
+  "name": "calculatorwithelectron",
+  "version": "1.0.0",
+  "description": "Electron ile Hesap Makinesi Uygulaması",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Hesap",
+    "Makinesi",
+    "Electron"
+  ],
+  "author": "Ekrem Eşref KILINÇ",
+  "license": "MIT"
+}
